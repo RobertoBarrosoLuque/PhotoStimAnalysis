@@ -5,7 +5,7 @@
 function [dif,controlAVGs,stimAVGs] = AVGwindows(TrialInf,trial_switch)
 %diff has control - stim performances
 %controlAVGs and stimAVGs rows are performance in windows 
-
+%% TEST REPO CHANGES
 
 stimAVGs = [];
 controlAVGs = []; 
